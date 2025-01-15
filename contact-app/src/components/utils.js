@@ -5,7 +5,7 @@ function util() {
     <div className="ui fixed menu">
       <div className="ui container center">
         <h2>util Manager</h2>
-        <p>Aniket is a good boy</p>
+        <img src='' alt="aniekt"></img>
         <p>ths is your Manager</p>
       </div>
     </div>

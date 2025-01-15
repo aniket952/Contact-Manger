@@ -7,6 +7,7 @@ function util() {
         <h2>util Manager</h2>
         <img src='' alt="aniekt"></img>
         <p>ths is your Manager</p>
+        <img src='' alt="note"></img>
       </div>
     </div>
   );

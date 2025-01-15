@@ -5,8 +5,8 @@ function util() {
     <div className="ui fixed menu">
       <div className="ui container center">
         <h2>util Manager</h2>
-        <h2>hii Manager</h2>
-        <h2>ths is your Manager</h2>
+        <p>Aniket is a good boy</p>
+        <p>ths is your Manager</p>
       </div>
     </div>
   );
